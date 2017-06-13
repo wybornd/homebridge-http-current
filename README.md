@@ -1,5 +1,7 @@
 # homebridge-http-current
 
+!! WORK IN PROGRESS !!
+
 Supports https devices on HomeBridge Platform.
 This is a modified version of the https://github.com/lucacri/homebridge-http-temperature plugin.
 This version only supports current sensors, not temp or humidity.
