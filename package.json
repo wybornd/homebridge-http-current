@@ -1,0 +1,25 @@
+{
+  "name": "homebridge-http-current",
+  "version": "0.1.0",
+  "description": "https plugin for homebridge",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin",
+    "http",
+    "current sensor"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": {
+    "name": "@wybornd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wybornd/homebridge-http-current.git"
+  },
+  "dependencies": {
+    "request": "^2.5.0"
+  }
+}

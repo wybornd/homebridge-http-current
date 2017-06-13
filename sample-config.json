@@ -1,0 +1,21 @@
+{
+    "bridge": {
+        "name": "HomebridgePI",
+        "username": "CD:22:3D:E3:CE:30",
+        "port": 51826,
+        "pin": "031-45-156"
+    },
+
+    "description": "Deanos Switch and Current Sensor",
+
+    "platforms": [],
+
+    "accessories": [
+        {
+            "accessory": "HttpCurrent",
+            "name": "Switch 127 Current",
+            "url": "http://192.168.1.127/current?format=json",
+            "http_method": "GET"
+        }
+    ]
+}
