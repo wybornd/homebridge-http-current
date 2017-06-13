@@ -1,4 +1,4 @@
-# homebridge-http-temperature
+# homebridge-http-current
 
 Supports https devices on HomeBridge Platform.
 This is a modified version of the https://github.com/lucacri/homebridge-http-temperature plugin.
